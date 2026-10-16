@@ -1,0 +1,5 @@
+Numero: 001
+Cliente : Ana torres
+Valor : 150000
+Estado : Pendiente
+
