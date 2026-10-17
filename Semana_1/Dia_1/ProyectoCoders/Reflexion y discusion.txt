@@ -1,0 +1,13 @@
+
+ ¿Por qué es importante mantener una estructura organizada en el desarrollo de software?
+
+• Facilidad de mantenimiento: Permite encontrar y corregir archivos en segundos sin perder tiempo.
+• Escalabilidad: Evita que el proyecto se vuelva caótico e inmanejable a medida que crece.
+• Trabajo en equipo: Define un estándar claro para que cualquier desarrollador entienda el proyecto de inmediato.
+
+
+¿Cómo pueden los atajos de teclado y los comandos del sistema mejorar la productividad?
+
+• Mayor velocidad: Ejecutas tareas complejas en segundos sin depender de los clics del mouse.
+• Menos errores: Atajos como el tabulador (Tab) autocomplementan rutas y evitan fallas de ortografía.
+• Automatización: Permiten agrupar comandos en scripts para resolver tareas repetitivas con un solo comando.

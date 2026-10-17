@@ -1,0 +1,11 @@
+actividad ficticia ...
+lunes : Español
+
+
+Martes : educacion fisica
+miercoles:Ingels
+
+Jueves : Labooratorio
+
+Viernes : Descanso
+
