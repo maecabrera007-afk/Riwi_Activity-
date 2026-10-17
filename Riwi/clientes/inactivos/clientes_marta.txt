@@ -1,6 +1,0 @@
-Nombre : Martha Diaz
-Empresa : Deditos Arrancar
-Estado : Dudoso
-
-Martha@example.com
-observacion : solicita una pagina web 

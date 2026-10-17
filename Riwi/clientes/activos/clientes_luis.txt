@@ -1,5 +1,0 @@
-Nombre : Luis torres
-Empresa : Taller Andres
-Estado : Ativo
-
-luis@example.com
