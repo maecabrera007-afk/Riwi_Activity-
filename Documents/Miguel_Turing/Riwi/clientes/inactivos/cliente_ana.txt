@@ -1,0 +1,6 @@
+Nombre : Ana Torres 
+Empresa : Panaderia Aurora
+Estado : Activo
+
+ana@example.com
+
